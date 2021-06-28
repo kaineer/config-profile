@@ -1,4 +1,10 @@
 # ~/git/config/profile/bash
+#
+# Synopsis:
+#
+# ### From ~/.bash_profile:
+#
+# source ~/git/config/profile/bash
 
 if [[ "$PROFILE_BASH_LOADED" != "" ]]; then
   return

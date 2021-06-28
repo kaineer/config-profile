@@ -1,6 +1,14 @@
 Config for bash shell
 =====================
 
+Installation
+------------
+
+```
+$ git clone git@github.com:kaineer/config-profile.git ~/git/config/profile
+$ echo "source ~/git/config/profile/bash" > .bash_profile
+```
+
 Implements
 ----------
 
