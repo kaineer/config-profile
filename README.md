@@ -10,7 +10,7 @@ Implements
    * BROWSER
    * SSH_KEY_PATH
  * Loads
-   * assets from [bin-assets](gitlab.com:kaineer/bin-assets)
+   * assets from [bin-assets](https://gitlab.com:kaineer/bin-assets)
    * [fasd](https://github.com/clvv/fasd)
    * [nvm and nvm autocompletion](https://github.com/nvm-sh/nvm)
    * [fzf](https://github.com/junegunn/fzf)
