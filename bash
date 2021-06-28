@@ -6,8 +6,6 @@ fi
 
 PROFILE_BASH_LOADED="true"
 
-### ------- }}}
-
 ### MISC ###
 
 # check the window size after each command and, if necessary,
